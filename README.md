@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhuhai-philosophers
 - 👀 I’m 哲珠2023届研究生的小管家
 - 🌱 I’m currently 静静地躺在网络上等你们来看我
-- 💞️ I hope **Love** and **Happiness** with all of you 
+
 
 
 <!---
